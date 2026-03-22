@@ -20,5 +20,9 @@ This repository includes supporting materials such as:
 - Photographic evidence
 
 > Note: Some documents are in Spanish as they were originally created during the project. Brief explanations are provided for context.
->
+>Here you fan find the English summary presentation:
+>  https://drive.google.com/file/d/12hzM8SxW3nR_tuoxy6OmDClSG-KUheb2/view?usp=drive_link
+> 
 > ![Logos](https://github.com/user-attachments/assets/b2a7ea4d-4fc8-41e1-b32a-12aa92562d89)
+>
+> 
