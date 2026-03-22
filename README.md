@@ -1,4 +1,4 @@
-🤖 # Robotics Competition Organization – CROFI
+# Robotics Competition Organization – CROFI 🤖 
 
 ## Overview
 This repository documents my role as President of the Robotics Club (CROFI) at UNAM, where I led the organization of a robotics competition.
